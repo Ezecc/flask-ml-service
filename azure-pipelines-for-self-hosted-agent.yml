@@ -10,10 +10,10 @@ pool: myAgentPool
 
 variables:
   # TODO: Replace the service connection name
-  azureServiceConnectionId: 'myserviceconnection'
+  azureServiceConnectionId: 'myserviceconn123456'
   
   # TODO: Replace 'mywebapp193576' with the existing Web App name
-  webAppName: 'mywebapp654321'
+  webAppName: 'azurecicdpipeline'
 
   # Environment name
   environmentName: 'flask-ml-service'
